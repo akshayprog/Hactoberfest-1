@@ -1,4 +1,4 @@
-// Program to build a simple calculator using switch Statement
+//Program to build a simple calculator using switch Statement
 #include <iostream>
 using namespace std;
 
