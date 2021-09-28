@@ -1,5 +1,5 @@
 CONTRIBUTING.md
-Welcome to GitHub contributing guide :
+Welcome to GitHub contributing guide : Hacktoberfest
 Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on github.com .
 
 Keep our community approachable and respectable.
